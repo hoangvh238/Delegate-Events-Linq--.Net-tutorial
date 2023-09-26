@@ -1,0 +1,14 @@
+D:\PRN211\Slot7\Slot7\bin\Debug\net6.0\Slot7.exe
+D:\PRN211\Slot7\Slot7\bin\Debug\net6.0\Slot7.deps.json
+D:\PRN211\Slot7\Slot7\bin\Debug\net6.0\Slot7.runtimeconfig.json
+D:\PRN211\Slot7\Slot7\bin\Debug\net6.0\Slot7.dll
+D:\PRN211\Slot7\Slot7\bin\Debug\net6.0\Slot7.pdb
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\Slot7.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\Slot7.AssemblyInfoInputs.cache
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\Slot7.AssemblyInfo.cs
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\Slot7.csproj.CoreCompileInputs.cache
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\Slot7.dll
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\refint\Slot7.dll
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\Slot7.pdb
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\Slot7.genruntimeconfig.cache
+D:\PRN211\Slot7\Slot7\obj\Debug\net6.0\ref\Slot7.dll
